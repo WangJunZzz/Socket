@@ -1,0 +1,10 @@
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.pdb
