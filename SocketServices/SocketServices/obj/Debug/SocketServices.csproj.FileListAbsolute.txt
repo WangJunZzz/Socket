@@ -1,7 +1,0 @@
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServices\SocketServices\bin\Debug\SocketServices.exe.config
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServices\SocketServices\bin\Debug\SocketServices.exe
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServices\SocketServices\bin\Debug\SocketServices.pdb
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServices\SocketServices\obj\Debug\SocketServices.csproj.CoreCompileInputs.cache
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServices\SocketServices\obj\Debug\SocketServices.exe
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServices\SocketServices\obj\Debug\SocketServices.pdb
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServices\SocketServices\obj\Debug\SocketServices.csprojResolveAssemblyReference.cache
