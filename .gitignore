@@ -2,3 +2,6 @@
 /SocketServices/SocketServices/obj
 /SocketServer/SocketClient/bin
 /SocketServer/SocketClient/obj
+/SocketServer/SocketServer/obj
+/SocketServer/SocketServer/bin
+/SocketServer/.vs
