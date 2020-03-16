@@ -1,9 +1,0 @@
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.exe
-C:\Users\Administrator.UF4B7S7B1DCKKXW\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
